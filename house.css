@@ -1,0 +1,128 @@
+center {
+  font-family: Merriweather;
+  border-radius: 0;
+
+}
+
+a {
+text-decoration: none;
+}
+
+
+tbody {
+  font-family: 'Merriweather', serif;
+  font-size: 13px;
+  margin-top: 5px;
+
+}
+
+
+
+#tbody {
+  font-family: 'Merriweather', serif;
+  margin-right: 6%;
+  margin-left: 6%;
+  margin-top: 5px;
+
+
+}
+
+
+table {
+  margin-top: 5px;
+  padding-botton: 5px;
+}
+
+#source {
+padding-top: 7px;
+font-family: 'Merriweather', serif;
+
+}
+
+
+
+
+.alabama {
+  padding-top: 35px;
+  text-decoration: underline;
+
+}
+
+.space {
+padding-top: 35px;
+
+
+}
+
+.name {
+  text-decoration: underline;
+  font-size: 13px;
+
+}
+
+th {
+  text-decoration: underline;
+  text-align: left;
+}
+
+#table1 {
+  text-align: center;
+    font-weight: 800;
+    text-decoration: underline;
+
+}
+
+#hi {
+  margin-top: 50px;
+
+}
+
+#Republican {
+  color: rgb(236, 74, 63);
+
+}
+
+#Republican1 {
+  background-color: rgb(236, 74, 63);
+  color: white;
+
+}
+
+#Democrat {
+  color: #73b1d1;
+
+}
+
+#Democrat1 {
+  background-color: #73b1d1;
+  color: white;
+
+}
+
+#noc {
+  font-size: 10px;
+
+}
+
+#g {
+  text-decoration: underline;
+
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  font-size: 12px;
+  border-radius: 0px;
+}
+
+
+.test_title {
+  font-size: 12px;
+  padding: 0px;
+
+}
+
+.test_title:hover {
+	background-color: #030F21;
+
+}
