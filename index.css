@@ -77,7 +77,15 @@ embed {
   }
 }
 
+.image2source {
 
+  font-size: 6px;
+  top: 105px;
+  left: 380px;
+  position: relative;
+  color: black;
+
+}
 
 /* PEN STYLES ========== */
 
